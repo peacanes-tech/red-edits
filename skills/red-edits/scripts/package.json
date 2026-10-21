@@ -1,0 +1,1 @@
+{ "name": "red-edits-scripts", "private": true, "type": "module", "dependencies": { "@rhwp/core": "0.7.3" } }
